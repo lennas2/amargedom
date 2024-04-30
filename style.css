@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: darkred;
+    text-align: center;
+    font-size: 100px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 680px;
+    padding-bottom: 10px;
+}
+
+button{
+    border: solid 1px gray;
+    border-radius: 5px;
+    color: white;
+    background-color: darkred;
+    display: block;
+    margin: 0 auto;
+    
+}
